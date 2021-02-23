@@ -1,0 +1,27 @@
+* {
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+
+#facilities {
+    background-color: rgba(187, 187, 187, 0.562);
+   
+}
+
+#facilities h1 {
+    font-weight: 900;
+    font-size: 34px;
+    padding-bottom: 5px;
+}
+
+.title {
+    text-align: center;
+    padding: 25px 0px;
+}
+
+.title p {
+    font-size: 18px;
+}
